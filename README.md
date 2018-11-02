@@ -1,1 +1,1 @@
-https://luzceron.github.io.git
+https://luzceron.github.io
